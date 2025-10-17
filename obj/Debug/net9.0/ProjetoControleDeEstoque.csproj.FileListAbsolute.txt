@@ -12,3 +12,4 @@ C:\Users\fe\Downloads\ProjetoControleDeEstoque\obj\Debug\net9.0\refint\ProjetoCo
 C:\Users\fe\Downloads\ProjetoControleDeEstoque\obj\Debug\net9.0\ProjetoControleDeEstoque.pdb
 C:\Users\fe\Downloads\ProjetoControleDeEstoque\obj\Debug\net9.0\ProjetoControleDeEstoque.genruntimeconfig.cache
 C:\Users\fe\Downloads\ProjetoControleDeEstoque\obj\Debug\net9.0\ref\ProjetoControleDeEstoque.dll
+c:\Users\fe\Downloads\ProjetoControleDeEstoque\obj\Debug\net9.0\ProjetoControleDeEstoque.sourcelink.json
